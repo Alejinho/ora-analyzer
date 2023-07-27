@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<guestbook onclick="SELECT * FROM schema.view_active_employees WHERE id = :userId;">
+  <guest>
+    <fname>Teyje</fname>
+    <lname>Back</lname>
+  </guest>
+  <guest>
+    <fname>Jonh</fname>
+    <lname>Nesrefs</lname>
+  </guest>
+</guestbook>

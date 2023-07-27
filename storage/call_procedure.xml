@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<guestbook>
+  <guest plsql="EXECUTE world.add_activity(:userId)">
+    <lname>Back</lname>
+    <lname>Nesrefs</lname>
+  </guest>
+</guestbook>
