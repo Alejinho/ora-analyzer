@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "antlr4": "^4.13.0"
+    "antlr4": "^4.13.0",
+    "node-sql-parser": "^4.9.0",
+    "oracle-plsql-parser": "^0.1.13"
   }
 }
